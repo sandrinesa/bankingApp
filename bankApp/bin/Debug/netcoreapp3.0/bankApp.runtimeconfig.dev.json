@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sandrine\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sandrine\\.nuget\\packages"
+    ]
+  }
+}

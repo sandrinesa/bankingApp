@@ -1,0 +1,11 @@
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\obj\Debug\netcoreapp3.0\bankApp.csprojAssemblyReference.cache
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\obj\Debug\netcoreapp3.0\bankApp.AssemblyInfoInputs.cache
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\obj\Debug\netcoreapp3.0\bankApp.AssemblyInfo.cs
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.exe
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.deps.json
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.runtimeconfig.json
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.runtimeconfig.dev.json
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.dll
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\bin\Debug\netcoreapp3.0\bankApp.pdb
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\obj\Debug\netcoreapp3.0\bankApp.dll
+C:\Users\Sandrine\RiderProjects\bankApp\bankApp\obj\Debug\netcoreapp3.0\bankApp.pdb
